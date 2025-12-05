@@ -1,0 +1,66 @@
+
+div{
+    border: 2px solid; background-color: ;
+}
+#video{
+    text-align: center; color: rgb(0, 0, 0);
+}
+#animais{
+    background-color: rgb(255, 255, 255);
+}
+#macaco{
+    background-color: rgb(140, 251, 255); display: inline-block;
+    margin: 10px 10px 10px 10px;
+    width: 30%;
+}
+#cachorro{
+    background-color: rgb(140, 251, 255); display: inline-block;
+    margin: 10px 10px 10px 10px;
+    width: 30%;
+}
+#lontras{
+    background-color: rgb(140, 251, 255); display: inline-block;
+    margin: 10px 10px 10px 10px;
+    width: 30%;
+}
+h2{
+    background-color: rgb(140, 251, 255);
+}
+h1{
+    display: inline-block;
+}
+hr{
+    border: 3px solid black;
+}
+#autor{
+    position: absolute;
+    right: 0%;
+}
+a{
+    display: inline-block;
+}
+nav{
+    text-align: center;
+    background-color: aquamarine;
+}
+img{
+    width: 500px; height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#spfc{
+    text-align: center;
+    background-color: aquamarine;
+}
+figcaption{
+    text-align: center;
+}
+#rei{
+    background-color: aquamarine;
+    text-align: center;
+}
+#copa{
+    background-color: aquamarine;
+    text-align: center;
+}
