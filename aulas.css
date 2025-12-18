@@ -1,0 +1,50 @@
+.ec1{
+    position: relative;
+    top: -10px;
+    border: 1px solid black;
+    background-color: brown;
+    width: 200px;
+    height: 200px;
+}
+.ec2{
+    position: absolute;
+    color: white;
+}
+.eb1{
+    position: relative;
+    top: 235px;
+    border: 1px solid black;
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+}
+.eb2{
+    position: absolute;
+    color: white;
+}
+.dc1{
+    position: relative;
+    left: 86%;
+    top: -410px;
+    border: 1px solid black;
+    background-color: cadetblue;
+    width: 200px;
+    height: 200px;
+}
+.dc2{
+    position: absolute;
+    color: white;
+}
+.db1{
+    position: relative;
+    left: 86%;
+    top: -180px;
+    border: 1px solid black;
+    background-color: aquamarine;
+    width: 200px;
+    height: 200px;
+}
+.db2{
+    position: absolute;
+    color: white;
+}

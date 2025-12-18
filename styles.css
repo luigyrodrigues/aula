@@ -1,0 +1,32 @@
+#eu{
+    display: inline-block;
+    position: absolute;
+    right: 0%;
+    top: 0%;
+}
+nav{
+    text-align: center;
+    background-color: dodgerblue;
+}
+a{
+    color: white;
+    margin: 10px;
+    font-size: 25px;
+}
+img{
+    display: inline-block;
+    width: 200px;
+}
+figure{
+    display: inline-block;
+    margin-left: 125px;
+}
+h2{
+    text-align: center;
+}
+footer{
+    background-color: dodgerblue;
+}
+#ney{
+    color: aliceblue;
+}

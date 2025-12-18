@@ -1,0 +1,12 @@
+.container{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.item{
+    width: 100px;
+    height: 100px;
+    background-color: cornflowerblue;
+    border: 1px solid black;
+}
